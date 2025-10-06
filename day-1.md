@@ -5,5 +5,11 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 
+- item 1
+- item 2
+
+1. list 1
+2. list 2
+
 ## Review
 
